@@ -1,0 +1,9 @@
+{
+  "name": "my-react",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "dependencies": {
+    "typescript": "3.3.3"
+  }
+}
