@@ -15,8 +15,11 @@ and display all the employees using javascript code
 	- URL: Your app base url
 		- example: http://localhost/lyra-task/
 	- DB configuration (DB_HOST,DB_PORT,DB_USER,DB_PASS)
+	
+5. run npm install
 
-5. Open the project by open (URL in config)/public in your browser.
+6. Open the project by open (URL in config)/public in your browser.
+
 
 
 
